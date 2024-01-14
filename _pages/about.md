@@ -56,5 +56,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Working Experience
+- *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
+- *2016.07 - 2018.07*, Research assistant, State Key Laboratory of Remote Sensing Science, Beijing, China 
