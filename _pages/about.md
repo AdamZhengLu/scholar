@@ -49,7 +49,8 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2017</div><img src='images/2017_RS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Estimating Time Series Soil Moisture by Applying Recurrent Nonlinear Autoregressive Neural Networks to Passive Microwave Data over the Heihe River Basin, China](https://arxiv.org/abs/2109.15166) \\
+[Estimating Time Series Soil Moisture by Applying Recurrent Nonlinear Autoregressive Neural Networks to Passive Microwave Data over the Heihe River Basin, China](https://www.mdpi.com/2072-4292/9/6/574)
+
 **Zheng Lu**, Linna Chai, Shaomin Liu, Huizhen Cui, Yanghua Zhang, Lingmei Jiang, Rui Jin, Ziwei Xu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&citation_for_view=Y59A2dsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
