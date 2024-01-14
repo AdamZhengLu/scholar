@@ -76,8 +76,11 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 # 🎖 Honors and Awards
 - *2024.01* Academic Innovation Award of Beijing Normal University
-- *2020.12* Top scholarship Awarded, Beijing Normal University
+- *2021.12* Honorable Graduate Student Fellowship of No.2 Middle School Attached to SDNU
+- *2021.10* Poster Award, International Workshop on Smart Ocean and Comprehensive Utilization
+- *2020.12* Top Scholarship Award, Beijing Normal University
 - *2020.11* Outstanding Teaching Assistant
+- *2019.12* Second-class Scholarship Award, Postgraduate Academic Competition
 - *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 - *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 - *2012.05* Outstanding Student Prize, Control Survey Skills Competition
