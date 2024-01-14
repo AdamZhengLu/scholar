@@ -16,8 +16,9 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 (<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAdamZhengLu%2Fzhenglu@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
+# 🔖 News
 - *2023.12*: &nbsp;🎉 His google scholar citations had exceeded 400.
+- *2023.12*: &nbsp;🌐 The 1st article about ParFlow-CLM application in China was published.
 - *2022.02*: &nbsp;🔥 Series of benchmarking cases assessing integrated hydrologic model was release.
 
 # 📝 Publications 
