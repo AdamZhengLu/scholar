@@ -38,7 +38,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Yuan He, Shuyan Peng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA20100104) 
 </div>
 </div>
 
