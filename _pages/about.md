@@ -88,6 +88,12 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 ## 📄 Others 
 - ``RST&A 2020`` [Estimating soil moisture in the middle and upper reaches of the Heihe River Basin based on AMSR2 multi-brightness temperature](http://rsta.ac.cn/EN/abstract/abstract3188.shtml), **Zheng Lu**, Menglei Han, Hui Lu, Xueting Peng, Shasha Meng, Jin Liu, Xiaofan Yang
+- ``AGU 2018`` [Hydrological Model Intercomparison: Subsurface Flow and Reactive Transport Simulation in the Oasis-Desert Interaction Zone](https://ui.adsabs.harvard.edu/abs/2018AGUFM.H21N1882L/abstract), **Zheng Lu**, Jinhui Tong, Chen Yang, Tao Che, Xiaofan Yang, Shaomin Liu
+- ``MODFLOW & More 2019`` [Integrated surface water-groundwater model intercomparison: From benchmarking to beyond](), **Zheng Lu**, Chen Yang, Tao Che, Xiaofan Yang, Shaomin Liu
+- ``IWQRSHLS 2016`` [Validation of AMSR2 soil moisture product using observation of soil moisture network over the Heihe River Basin in China](), **Zheng Lu**, Linna Chai, Tao Zhang, Huizhen Cui, Yichi Zhang
+- ``IWQRSHLS 2016`` [Application of recurrent nonlinear autoregressive neural network for time-series soil moisture estimation over the Heihe River Basin](), **Zheng Lu**, Linna Chai, Tao Zhang, Lingmei Jiang, Xiaojing Liu
+- ``IWQRSHLS 2016`` [Towards Thermal Inertia Model Derived Soil Moisture, Upscaling, and Validation](), Huizhen Cui, Lingmei Jiang, Shuang Yan, **Zheng Lu**
+- ``IWQRSHLS 2016`` [Analysis of spatial-temporal change of soil moisture in northeastern China based on AMSR2 and SMOS products](), Zhen Li, Xiaomeng Wang, Wanjing Li, **Zheng Lu**, Huizhen Cui, Lingmei Jiang
 
 
 # 🎙 Oral Reports
