@@ -18,10 +18,11 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 # 🔖 News
 - *2023.12*: &nbsp;🎉 His google scholar citations had exceeded 400.
-- *2023.05*: &nbsp;🌐 The 1st article about ParFlow-CLM application in China was published.
-- *2022.03*: &nbsp;🔥 Series of benchmarking cases assessing integrated hydrologic model was release.
+- *2023.05*: &nbsp;🔥 The 1st article about ParFlow-CLM application in China was published.
+- *2022.03*: &nbsp;🌐 Series of benchmarking cases assessing integrated hydrologic model was release.
 
 # 📝 Publications 
+## 📚 SCI articles
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2023</div><img src='images/2023_land.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,12 +69,26 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - ``HJ 2021`` [Diagnosing the subsurface buffer on ground-surface temperature under long-term groundwater pumping: effects of the bottom boundary condition placement](https://link.springer.com/article/10.1007/s10040-020-02287-8), Chen Yang, Tingting Zheng, Kun Huang, **Zheng Lu**, You-Kuan Zhang, Xiaofan Yang
 - ``RSE 2021`` [Uncertainty analysis of eleven multisource soil moisture products in the third pole environment based on the three-corned hat method](https://www.sciencedirect.com/science/article/abs/pii/S0034425720305988), Jin Liu, Linna Chai, Jianzhi Dong, Donghai Zheng, J-P Wigneron, Shaomin Liu, Ji Zhou, Tongren Xu, Shiqi Yang, Yongze Song, Yuquan Qu, **Zheng Lu**
 - ``JH 2021`` [Inter-comparison of several soil moisture downscaling methods over the Qinghai-Tibet Plateau, China](https://www.sciencedirect.com/science/article/pii/S0022169420310775), Yuquan Qu, Zhongli Zhu, Carsten Montzka, Linna Chai, Shaomin Liu, Yong Ge, Jin Liu, **Zheng Lu**, Xinlei He, Jie Zheng, Tian Han
-- ``RST&A 2020`` [Estimating soil moisture in the middle and upper reaches of the Heihe River Basin based on AMSR2 multi-brightness temperature](http://rsta.ac.cn/EN/abstract/abstract3188.shtml), **Zheng Lu**, Menglei Han, Hui Lu, Xueting Peng, Shasha Meng, Jin Liu, Xiaofan Yang
+
 - ``JGS 2019`` [The impact of land use and cover change on soil organic carbon and total nitrogen storage in the Heihe River Basin: A meta-analysis](https://link.springer.com/article/10.1007/s11442-019-1678-y), Jinhui Tong, Jinhua Hu, **Zheng Lu**, Haoran Sun, Xiaofan Yang
 - ``RS 2019`` [Evaluation of SMAP, SMOS-IC, FY3B, JAXA, and LPRM Soil moisture products over the Qinghai-Tibet Plateau and Its surrounding areas](https://www.mdpi.com/2072-4292/11/7/792), Jin Liu, Linna Chai, **Zheng Lu**, Shaomin Liu, Yuquan Qu, Deyuan Geng, Yongze Song, Yabing Guan, Zhixia Guo, Jian Wang, Zhongli Zhu
 - ``RS 2019`` [Rebuilding a microwave soil moisture product using random forest adopting AMSR-E/AMSR2 brightness temperature and SMAP over the Qinghai–Tibet Plateau, China](https://www.mdpi.com/2072-4292/11/6/683), Yuquan Qu, Zhongli Zhu, Linna Chai, Shaomin Liu, Carsten Montzka, Jin Liu, Xiaofan Yang, **Zheng Lu**, Rui Jin, Xiang Li, Zhixia Guo, Jie Zheng
 - ``JGR:A 2018`` [Intercomparison of six upscaling evapotranspiration methods: From site to the satellite pixel](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028422), Xiang Li, Shaomin Liu, Huaixiang Li, Yanfei Ma, Jianghao Wang, Yuan Zhang, Ziwei Xu, Tongren Xu, Lisheng Song, Xiaofan Yang, **Zheng Lu**, Zeyu Wang, Zhixia Guo
 - ``JGR:A 2017`` [Evaluation and analysis of AMSR‐2, SMOS, and SMAP soil moisture products in the Genhe area of China](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026800), Huizhen Cui, Lingmei Jiang, Jinyang Du, Shaojie Zhao, Gongxue Wang, **Zheng Lu**, Jian Wang
+
+## 📚 EI Proceeding
+- ``IGARSS 2019`` [Validation of Five Passive Microwave Remotely Sensed Soil Moisture Products over the Qinghai-Tibet Plateau, China](https://ieeexplore.ieee.org/abstract/document/8899873), Jin Liu, Linna Chai, **Zheng Lu**, Yuquan Qu, Jian Wang, Shiqi Yang
+- ``IGARSS 2017`` [Improvement on soil freeze/thaw discriminant algorithm under complex surface conditions in cold regions](https://ieeexplore.ieee.org/abstract/document/8127278), Wenxing Hu, Linna Chai, Shaojie Zhao, Tianjie Zhao, **Zheng Lu**
+- ``IGARSS 2017`` [Improvement and validation of QP model with dual-channel soil moisture retrieval algorithm in Genhe, China](https://ieeexplore.ieee.org/abstract/document/8128115), Huizhen Cui, Lingmei Jiang, **Zheng Lu**, Gongxue Wang, Jian Wang
+- ``LPS 2016`` [Validation/Calibration of SMOS L2 Soil Moisture in Crop Area, Eastern China](https://ui.adsabs.harvard.edu/abs/2016ESASP.740E.142C/abstract), Huizhen Cui, Lingmei Jiang, Na Yang, **Zheng Lu**
+- ``IGARSS 2016`` [Validation of SMOS soil moisture production in the Heihe River Basin of China](https://ieeexplore.ieee.org/abstract/document/7729770), **Zheng Lu**, Linna Chai, Tao Zhang, Huizhen Cui, Jian Wang, Wanjing Li
+- ``IGARSS 2016`` [Downscaling microwave brightness temperatures from FY3B/MWRI with a linear unmixing method](https://ieeexplore.ieee.org/abstract/document/7729731), Xiaojing Liu, Lingmei Jiang, Gongxue Wang, **Zheng Lu**
+- ``IGARSS 2016`` [Assessment of QP model based two channel algorithm with JAXA, LPRM soil moisture products over Genhe area in China](https://ieeexplore.ieee.org/abstract/document/7729425), Huizhen Cui, Lingmei Jiang, Jinyang Du, Gongxue Wang, **Zheng Lu**
+- ``IGARSS 2015`` [Reconstruction of time-series soil moisture from AMSR2 and SMOS data by using recurrent nonlinear autoregressive neural networks](https://ieeexplore.ieee.org/abstract/document/7325932), **Zheng Lu**, Linna Chai, Qinyu Ye, Tao Zhang
+
+## 📚 Others 
+- ``RST&A 2020`` [Estimating soil moisture in the middle and upper reaches of the Heihe River Basin based on AMSR2 multi-brightness temperature](http://rsta.ac.cn/EN/abstract/abstract3188.shtml), **Zheng Lu**, Menglei Han, Hui Lu, Xueting Peng, Shasha Meng, Jin Liu, Xiaofan Yang
+
 
 # 🎙 Oral Reports
 - Impacts of surface microtopography, subsurface heterogeneity and agricultural activities on simulating regional hydrological processes. _AGU Fall Meeting 2022_, 12-16 December 2022, Chicago, Illinois, USA, online. Bibcode: 2022AGUFM.H35A..05L.  \| [\[video\]](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1199653)
