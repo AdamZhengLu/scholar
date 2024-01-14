@@ -30,7 +30,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Yuan He, Shuyan Peng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:4TOpqqG69KYC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work systematically validates ten soil moisture (SM) products, including four single-sourceRS SM, three merged SM, and three assimilated SM products.
+- This work includes a series of benchmarking cases to assess integrated hydrologic models.
 </div>
 </div>
 
@@ -42,7 +42,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:M3ejUd6NZC8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work includes a series of benchmarking cases to assess integrated hydrologic models.
+- This work systematically validates ten soil moisture (SM) products, including four single-sourceRS SM, three merged SM, and three assimilated SM products.
 </div>
 </div>
 
@@ -55,6 +55,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&citation_for_view=Y59A2dsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 </span></strong>
+- This work built a nonlinear auto-regressive neural network with exogenous input (NARXnn) to retrieve time series soil moisture (SM) that is spatially and temporally continuous and high quality over the Heihe River Basin.
 </div>
 </div>
 
