@@ -53,8 +53,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2009.09 - 2019.06*, High School Attached To Shandong Normal University, Jinan, China
 
 # 💬 Oral Reports
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Impacts of surface microtopography, subsurface heterogeneity and agricultural activities on simulating regional hydrological processes. _AGU Fall Meeting 2022_, 12-16 December 2022, Chicago, Illinois, USA, online. Bibcode: 2022AGUFM.H35A..05L.
+- Evaluating the Impacts of Subsurface Heterogeneity on Integrated Groundwater-Surface Water Modeling: A Case Study in the Heihe River Basin. _AGU Fall Meeting 2019_, 9-13 December 2019, San Francisco, California, USA. Bibcode: 2019AGUFM.H44C..03L.  \| [\[video\]](https://github.com/)
 
 # 💻 Working Experience
 - *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
