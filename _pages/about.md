@@ -21,8 +21,8 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2023.05*: &nbsp;🔥 The 1st article about ParFlow-CLM application in China was published.
 - *2022.03*: &nbsp;🌐 Series of benchmarking cases assessing integrated hydrologic model was release.
 
-# 📝 Publications 
-## 📚 SCI articles
+# 📚: Publications 
+## 📜: SCI articles
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2023</div><img src='images/2023_land.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - ``JGR:A 2018`` [Intercomparison of six upscaling evapotranspiration methods: From site to the satellite pixel](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028422), Xiang Li, Shaomin Liu, Huaixiang Li, Yanfei Ma, Jianghao Wang, Yuan Zhang, Ziwei Xu, Tongren Xu, Lisheng Song, Xiaofan Yang, **Zheng Lu**, Zeyu Wang, Zhixia Guo
 - ``JGR:A 2017`` [Evaluation and analysis of AMSR‐2, SMOS, and SMAP soil moisture products in the Genhe area of China](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026800), Huizhen Cui, Lingmei Jiang, Jinyang Du, Shaojie Zhao, Gongxue Wang, **Zheng Lu**, Jian Wang
 
-## 📚 EI Proceeding
+## 📃: EI Proceeding
 - ``IGARSS 2019`` [Validation of Five Passive Microwave Remotely Sensed Soil Moisture Products over the Qinghai-Tibet Plateau, China](https://ieeexplore.ieee.org/abstract/document/8899873), Jin Liu, Linna Chai, **Zheng Lu**, Yuquan Qu, Jian Wang, Shiqi Yang
 - ``IGARSS 2017`` [Improvement on soil freeze/thaw discriminant algorithm under complex surface conditions in cold regions](https://ieeexplore.ieee.org/abstract/document/8127278), Wenxing Hu, Linna Chai, Shaojie Zhao, Tianjie Zhao, **Zheng Lu**
 - ``IGARSS 2017`` [Improvement and validation of QP model with dual-channel soil moisture retrieval algorithm in Genhe, China](https://ieeexplore.ieee.org/abstract/document/8128115), Huizhen Cui, Lingmei Jiang, **Zheng Lu**, Gongxue Wang, Jian Wang
@@ -86,7 +86,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - ``IGARSS 2016`` [Assessment of QP model based two channel algorithm with JAXA, LPRM soil moisture products over Genhe area in China](https://ieeexplore.ieee.org/abstract/document/7729425), Huizhen Cui, Lingmei Jiang, Jinyang Du, Gongxue Wang, **Zheng Lu**
 - ``IGARSS 2015`` [Reconstruction of time-series soil moisture from AMSR2 and SMOS data by using recurrent nonlinear autoregressive neural networks](https://ieeexplore.ieee.org/abstract/document/7325932), **Zheng Lu**, Linna Chai, Qinyu Ye, Tao Zhang
 
-## 📚 Others 
+## 📄 Others 
 - ``RST&A 2020`` [Estimating soil moisture in the middle and upper reaches of the Heihe River Basin based on AMSR2 multi-brightness temperature](http://rsta.ac.cn/EN/abstract/abstract3188.shtml), **Zheng Lu**, Menglei Han, Hui Lu, Xueting Peng, Shasha Meng, Jin Liu, Xiaofan Yang
 
 
