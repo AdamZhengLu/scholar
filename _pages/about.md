@@ -58,6 +58,12 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
+- ``JHM 2024`` [Geochemical properties, heavy metals and soil microbial community during revegetation process in a production Pb-Zn tailings](https://www.sciencedirect.com/science/article/abs/pii/S0304389423020939), Xiaocui Wen, Jiawei Zhou, Siyan Zheng, Zhangwei Yang, **Zheng Lu**, Xueqin Jiang, Lingzhi Zhao, Bo Yan, Xiaofan Yang, Tao Chen
+- ``EP 2023`` [A critical review on the migration and transformation processes of heavy metal contamination in lead-zinc tailings of China](https://www.sciencedirect.com/science/article/abs/pii/S026974912301669X), Tao Chen, Xiaocui Wen, Jiawei Zhou, **Zheng Lu**, Xueying Li, Bo Yan
+- ``JWEIA 2023`` [CFD Simulations for Airflow around Ground-mounted Photovoltaic Panel Arrays](https://www.sciencedirect.com/science/article/abs/pii/S0167610523002611), Jingbo Sun, Yuan He, Xueying Li, **Zheng Lu**, Xiaofan Yang
+- ``RS 2022`` [Applying a Wavelet Transform Technique to Optimize General Fitting Models for SM Analysis: A Case Study in Downscaling over the Qinghai–Tibet Plateau](https://www.mdpi.com/2072-4292/14/13/3063), Zixuan Hu, Linna Chai, Wade T Crow, Shaomin Liu, Zhongli Zhu, Ji Zhou, Yuquan Qu, Jin Liu, Shiqi Yang, **Zheng Lu**
+- ``WR 2022`` [Water clarity mapping of global lakes using a novel hybrid deep-learning-based recurrent model with Landsat OLI images](https://www.sciencedirect.com/science/article/pii/S0043135422002044), Yuan He, **Zheng Lu**, Weijia Wang, Dong Zhang, Yunlin Zhang, Boqiang Qin, Kun Shi, Xiaofan Yang
+
 # 🎖 Honors and Awards
 - *2024.01* Academic Innovation Award of Beijing Normal University
 - *2020.12* Top scholarship Awarded, Beijing Normal University
