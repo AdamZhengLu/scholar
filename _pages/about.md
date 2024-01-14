@@ -18,8 +18,8 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 # 🔖 News
 - *2023.12*: &nbsp;🎉 His google scholar citations had exceeded 400.
-- *2023.12*: &nbsp;🌐 The 1st article about ParFlow-CLM application in China was published.
-- *2022.02*: &nbsp;🔥 Series of benchmarking cases assessing integrated hydrologic model was release.
+- *2023.05*: &nbsp;🌐 The 1st article about ParFlow-CLM application in China was published.
+- *2022.03*: &nbsp;🔥 Series of benchmarking cases assessing integrated hydrologic model was release.
 
 # 📝 Publications 
 
