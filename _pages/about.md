@@ -47,9 +47,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2018.10 - 2024.01 (now)*, Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
-- *2013.09 - 2016.06*, Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
-- *2009.09 - 2016.06*, Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
+- *2018.10 - 2024.01 (now)*, Ph.D, Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
+- *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
+- *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
 - *2009.09 - 2019.06*, High School Attached To Shandong Normal University, Jinan, China
 
 # 💬 Oral Reports
