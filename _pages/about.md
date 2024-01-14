@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My current research focus is on the applications of integrated process-based hydrologic models and remote sensing approaches to describe groundwater-surface water interactions and the associated processes, especially changes in land surface processes, and assessing their possible impacts on the eco-hydrology over the Heihe River Basin of China as well as other arid and semi-arid regions.
 
-I have published 30+ papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published 30+ papers with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
