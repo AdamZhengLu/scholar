@@ -49,7 +49,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:4TOpqqG69KYC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:M3ejUd6NZC8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA20100104) 
 </div>
 </div>
