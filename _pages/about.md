@@ -74,6 +74,10 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - ``JGR:A 2018`` [Intercomparison of six upscaling evapotranspiration methods: From site to the satellite pixel](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028422), Xiang Li, Shaomin Liu, Huaixiang Li, Yanfei Ma, Jianghao Wang, Yuan Zhang, Ziwei Xu, Tongren Xu, Lisheng Song, Xiaofan Yang, **Zheng Lu**, Zeyu Wang, Zhixia Guo
 - ``JGR:A 2017`` [Evaluation and analysis of AMSR‐2, SMOS, and SMAP soil moisture products in the Genhe area of China](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026800), Huizhen Cui, Lingmei Jiang, Jinyang Du, Shaojie Zhao, Gongxue Wang, **Zheng Lu**, Jian Wang
 
+# 🎙 Oral Reports
+- Impacts of surface microtopography, subsurface heterogeneity and agricultural activities on simulating regional hydrological processes. _AGU Fall Meeting 2022_, 12-16 December 2022, Chicago, Illinois, USA, online. Bibcode: 2022AGUFM.H35A..05L.  \| [\[video\]](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1199653)
+- Evaluating the Impacts of Subsurface Heterogeneity on Integrated Groundwater-Surface Water Modeling: A Case Study in the Heihe River Basin. _AGU Fall Meeting 2019_, 9-13 December 2019, San Francisco, California, USA. Bibcode: 2019AGUFM.H44C..03L.
+
 # 🎖 Honors and Awards
 - *2024.01* Academic Innovation Award of Beijing Normal University
 - *2021.12* Honorable Graduate Student Fellowship of No.2 Middle School Attached to SDNU
@@ -89,10 +93,6 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2018.10 - 2024.01 (now)*, Ph.D, School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
 - *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
 - *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
-
-# 🎙 Oral Reports
-- Impacts of surface microtopography, subsurface heterogeneity and agricultural activities on simulating regional hydrological processes. _AGU Fall Meeting 2022_, 12-16 December 2022, Chicago, Illinois, USA, online. Bibcode: 2022AGUFM.H35A..05L.  \| [\[video\]](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1199653)
-- Evaluating the Impacts of Subsurface Heterogeneity on Integrated Groundwater-Surface Water Modeling: A Case Study in the Heihe River Basin. _AGU Fall Meeting 2019_, 9-13 December 2019, San Francisco, California, USA. Bibcode: 2019AGUFM.H44C..03L.
 
 # 💻 Working Experience
 - *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
