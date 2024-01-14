@@ -45,9 +45,10 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2024.01* Academic innovation award of Beijing Normal University
 - *2018.07* Excellent contribution to and completion of the Tsjnghua-MIT fojnt Workshop
 - *2018.07* Excellent contribution to and completion of the Tsjnghua-MIT fojnt Workshop
-- *2016.07* Excellent contribution to and completion of the Tsjnghua-MIT fojnt Workshop 
+
 
 # 📖 Educations
 - *2018.10 - 2024.01 (now)*, Ph.D, School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
