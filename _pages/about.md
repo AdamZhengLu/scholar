@@ -54,9 +54,10 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 
 # 🎖 Honors and Awards
-- *2024.01* Academic innovation award of Beijing Normal University
-- *2018.07* Excellent contribution to and completion of the Tsjnghua-MIT fojnt Workshop
-- *2018.07* Excellent contribution to and completion of the Tsjnghua-MIT fojnt Workshop
+- *2024.01* Academic Innovation Award of Beijing Normal University
+- *2024.01* Outstanding Teaching Assistant
+- *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
+- *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 
 
 # 📖 Educations
