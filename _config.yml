@@ -27,10 +27,10 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ"
   email            : "legend.lz@mail.bnu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zheng-Lu-17"
-  uri              :
+  uri              : "https://researcher.rjmart.cn/15317/zhenglu"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-0287-5826"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
