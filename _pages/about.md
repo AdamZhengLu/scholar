@@ -42,14 +42,10 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS 2023</div><img src='images/2023_JSTARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comprehensive Evaluation of Multi-Source Soil Moisture Products in a Managed Agricultural Region: An Integrated Hydrologic Modelling Approach](https://ieeexplore.ieee.org/document/10163798)
+[Comprehensive Evaluation of Multi-Source Soil Moisture Products in a Managed Agricultural Region: An Integrated Hydrologic Modelling Approach](https://ieeexplore.ieee.org/document/10163798)  \\
 
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
@@ -57,7 +53,6 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA20100104) 
 </div>
 </div>
-
 
 
 # 🎖 Honors and Awards
