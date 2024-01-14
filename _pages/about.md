@@ -36,7 +36,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Yuan He, Shuyan Peng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:4TOpqqG69KYC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA20100104) 
+- This work systematically validates ten soil moisture (SM) products, including four single-sourceRS SM, three merged SM, and three assimilated SM products.
 </div>
 </div>
 
@@ -48,10 +48,9 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:M3ejUd6NZC8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA20100104) 
+- This work includes a series of benchmarking cases to assess integrated hydrologic models.
 </div>
 </div>
-
 
 # 🎖 Honors and Awards
 - *2024.01* Academic Innovation Award of Beijing Normal University
@@ -59,7 +58,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2020.11* Outstanding Teaching Assistant
 - *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 - *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
-
+- *2012.05* Outstanding Student Prize, Control Survey Skills Competition
 
 # 📖 Educations
 - *2018.10 - 2024.01 (now)*, Ph.D, School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
@@ -72,4 +71,4 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 # 💻 Working Experience
 - *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
-- *2016.07 - 2018.07*, Research assistant, State Key Laboratory of Remote Sensing Science, Beijing, China 
+- *2016.07 - 2018.07*, Research Secretary, State Key Laboratory of Remote Sensing Science, Beijing, China 
