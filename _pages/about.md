@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: "ZhengLu Homepage"
 excerpt: ""
@@ -25,8 +25,8 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum. 
+- *2023.12*: &nbsp;🎉🎉 His google scholar citations had exceeded 400.
+- *2022.02*: &nbsp;🎉🎉 Series of benchmarking cases assessing integrated hydrologic model was release.
 
 # 📝 Publications 
 
