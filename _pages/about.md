@@ -25,19 +25,19 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/2023_land.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2023</div><img src='images/2023_land.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Assessing Integrated Hydrologic Model: From Benchmarking to Case Study in a Typical Arid and Semi-arid Basin](https://www.mdpi.com/2073-445X/12/3/697)
 
 **Zheng Lu**, Yuan He, Shuyan Peng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:4TOpqqG69KYC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA20100104) 
 </div>
 </div>
