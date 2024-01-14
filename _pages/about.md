@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 His current research focus is on the applications of integrated process-based hydrologic models and remote sensing approaches to describe groundwater-surface water interactions and the associated processes, especially changes in land surface processes, and assessing their possible impacts on the eco-hydrology over the Heihe River Basin of China as well as other arid and semi-arid regions.
