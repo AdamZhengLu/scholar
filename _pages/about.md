@@ -59,7 +59,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
 - *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
 
-# 💬🎙 Oral Reports
+# 🎙 Oral Reports
 - Impacts of surface microtopography, subsurface heterogeneity and agricultural activities on simulating regional hydrological processes. _AGU Fall Meeting 2022_, 12-16 December 2022, Chicago, Illinois, USA, online. Bibcode: 2022AGUFM.H35A..05L.  \| [\[video\]](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1199653)
 - Evaluating the Impacts of Subsurface Heterogeneity on Integrated Groundwater-Surface Water Modeling: A Case Study in the Heihe River Basin. _AGU Fall Meeting 2019_, 9-13 December 2019, San Francisco, California, USA. Bibcode: 2019AGUFM.H44C..03L.
 
