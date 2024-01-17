@@ -44,7 +44,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:M3ejUd6NZC8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work systematically validates ten soil moisture (SM) products, including four single-sourceRS SM, three merged SM, and three assimilated SM products.
+- This work systematically validates ten soil moisture (SM) products, including four single-source RS SM, three merged SM, and three assimilated SM products.
 </div>
 </div>
 
