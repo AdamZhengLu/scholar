@@ -5,10 +5,9 @@ AcadHomepage
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![Website](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=Click&url=https%3A%2F%2Fhome.mahaofei.com)](https://adamzhenglu.github.io/zhenglu/)
+[![License](https://img.shields.io/github/license/haofeima/homepage)](/LICENSE)
+
 </div>
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
