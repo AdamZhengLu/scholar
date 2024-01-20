@@ -112,7 +112,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2012.05* Outstanding Student Prize, Control Survey Skills Competition
 
 # 📖 Educations
-- *2018.10 - 2024.01 (now)*, Ph.D, School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
+- *2018.10 - 2024.01 (now)*, Ph.D., School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
 - *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
 - *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
 
