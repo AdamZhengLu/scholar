@@ -11,7 +11,7 @@ Homepage
 
 ### 个人主页
 
->这是我的个人主页
+>我的个人主页
 
 >修改自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) 主页
 
