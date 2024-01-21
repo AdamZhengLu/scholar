@@ -4,8 +4,8 @@ Homepage
 
 <div align="center">
 
-[![Website](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=Click&url=https%3A%2F%2Fhome.mahaofei.com)](https://mahaofei.com/)
-[![License](https://img.shields.io/github/license/haofeima/homepage)](/LICENSE)
+[![Website](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=Click&url=https%3A%2F%2Fhome.mahaofei.com)](https://adamzhenglu.github.io/Homepage/)
+[![License](https://img.shields.io/github/license/adamzhenglu/zhenglu/)](/LICENSE)
 
 </div>
 
