@@ -4,7 +4,7 @@ Homepage
 
 <div align="center">
 
-[![Website](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=Click&url=https%3A%2F%2Fhome.mahaofei.com)](https://adamzhenglu.github.io/Homepage/)
+[![Website](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=Click)](https://adamzhenglu.github.io/Homepage/)
 [![License](https://img.shields.io/static/v1?label=License&message=Dev%20by%20LZ&color=blue)](/LICENSE)
 
 </div>
