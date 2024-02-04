@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/zhenglu/#about-me"
+    url: "/research/#about-me"
 
   - title: "News"
-    url: "/zhenglu/#-news"
+    url: "/research/#-news"
 
   - title: "Publications"
-    url: "/zhenglu/#-publications"
+    url: "/research/#-publications"
 
   - title: "Oral Reports"
-    url: "/zhenglu/#-oral-reports"
+    url: "/research/#-oral-reports"
 
   - title: "Honors and Awards"
-    url: "/zhenglu/#-honors-and-awards"
+    url: "/research/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/zhenglu/#-educations"
+    url: "/research/#-educations"
 
   - title: "Working and Teaching Activities"
-    url: "/zhenglu/#-working-and-teaching-activities"
+    url: "/research/#-working-and-teaching-activities"
