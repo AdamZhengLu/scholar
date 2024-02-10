@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "ZhengLu Scholar"
-excerpt: ""
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
