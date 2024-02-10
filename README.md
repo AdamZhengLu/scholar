@@ -24,6 +24,6 @@ Homepage
     <br>
 </p>
 
-Some examples:
+原版的范例:
 - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
 - [Personal Homepage of the author](https://rayeren.github.io/)
