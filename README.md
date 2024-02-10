@@ -16,7 +16,7 @@ Homepage
 >修改自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) 主页
 
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+<p align="center">一个现代、响应式的个人学术主页</p>
 
 <p align="center">
     <br>
