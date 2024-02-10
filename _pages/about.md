@@ -15,7 +15,6 @@ His current research focus is on the applications of integrated process-based hy
 He has published 30+ papers with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a>. 
 (<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAdamZhengLu%2Fzhenglu@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
 # 🔖 News
 - *2023.12*: &nbsp;🔥  His google scholar citations had exceeded 400.
 - *2023.05*: &nbsp;🌊  The 1st article about ParFlow-CLM application in China was published.
