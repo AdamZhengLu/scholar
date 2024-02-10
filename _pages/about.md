@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZhengLu Academic"
+title: "ZhengLu Scholar"
 excerpt: ""
 author_profile: true
 redirect_from: 
