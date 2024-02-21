@@ -92,6 +92,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - ``IGARSS 2016`` [Validation of SMOS soil moisture production in the Heihe River Basin of China](https://ieeexplore.ieee.org/abstract/document/7729770), **Zheng Lu**, Linna Chai, Tao Zhang, Huizhen Cui, Jian Wang, Wanjing Li
 - ``IGARSS 2016`` [Downscaling microwave brightness temperatures from FY3B/MWRI with a linear unmixing method](https://ieeexplore.ieee.org/abstract/document/7729731), Xiaojing Liu, Lingmei Jiang, Gongxue Wang, **Zheng Lu**
 - ``IGARSS 2016`` [Assessment of QP model based two channel algorithm with JAXA, LPRM soil moisture products over Genhe area in China](https://ieeexplore.ieee.org/abstract/document/7729425), Huizhen Cui, Lingmei Jiang, Jinyang Du, Gongxue Wang, **Zheng Lu**
+- ``PIERS 2016`` [Using a linear unmixing method to improve passive microwave snow depth retrieval](https://ieeexplore.ieee.org/document/7735542),  Xiaojing Liu, Lingmei Jiang, Gongxue Wang, **Zheng Lu**
 - ``IGARSS 2015`` [Reconstruction of time-series soil moisture from AMSR2 and SMOS data by using recurrent nonlinear autoregressive neural networks](https://ieeexplore.ieee.org/abstract/document/7325932), **Zheng Lu**, Linna Chai, Qinyu Ye, Tao Zhang
 
 ## 📄 Others 
@@ -116,7 +117,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2020.11* Outstanding Teaching Assistant
 - *2019.12* Second-class Scholarship Award, Postgraduate Academic Competition
 - *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
-- *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
+- *2016.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 - *2012.05* Outstanding Student Prize, Control Survey Skills Competition
 
 # 📖 Educations
