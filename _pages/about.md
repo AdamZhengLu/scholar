@@ -96,6 +96,8 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - ``IGARSS 2015`` [Reconstruction of time-series soil moisture from AMSR2 and SMOS data by using recurrent nonlinear autoregressive neural networks](https://ieeexplore.ieee.org/abstract/document/7325932), **Zheng Lu**, Linna Chai, Qinyu Ye, Tao Zhang
 
 ## 📄 Others 
+- ``MODFLOW & More 2024`` [An integrated hydrologic modeling testbed in the Heihe River Basin](), Xiaofan Yang, **Zheng Lu**, Tao Chen, Yuan He, Guangrong Hu
+- ``E&ES 2024`` [Reconstruction of Porous Media Microstructure Via X-ray Computed Tomography and Generative Adversarial Networks](https://www.jeesci.com/CN/10.16258/j.cnki.1674-5906.2024.01.013), Xueying Li, **Zheng Lu**, Yuan He, Xiaofan Yang
 - ``RST&A 2020`` [Estimating soil moisture in the middle and upper reaches of the Heihe River Basin based on AMSR2 multi-brightness temperature](http://rsta.ac.cn/EN/abstract/abstract3188.shtml), **Zheng Lu**, Menglei Han, Hui Lu, Xueting Peng, Shasha Meng, Jin Liu, Xiaofan Yang
 - ``AGU 2018`` [Hydrological Model Intercomparison: Subsurface Flow and Reactive Transport Simulation in the Oasis-Desert Interaction Zone](https://ui.adsabs.harvard.edu/abs/2018AGUFM.H21N1882L/abstract), **Zheng Lu**, Jinhui Tong, Chen Yang, Tao Che, Xiaofan Yang, Shaomin Liu
 - ``MODFLOW & More 2019`` [Integrated surface water-groundwater model intercomparison: From benchmarking to beyond](), **Zheng Lu**, Chen Yang, Tao Che, Xiaofan Yang, Shaomin Liu
