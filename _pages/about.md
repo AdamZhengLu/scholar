@@ -40,7 +40,11 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 **Zheng Lu**, Xiaofan Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:Wp0gIr-vW9MC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Numerical experiments were conducted under different scenarios representing various degrees of microtopography. This study aimed to (1) investigate disparities in the characteristics of groundwater table, exchange flux, discharge, GRT and WTR among different scenarios and (2) explore distinctions in the fractal behaviours of the pressure head and the processes involved in signal transfer from varying precipitation, evapotranspiration and irrigation values to the groundwater flow across these scenarios.
+- An integrated groundwater–surface water model is developed in an agricultural region.
+- Microtopography plays a pivotal role in the determination of groundwater patterns.
+- Ignoring microtopography causes overestimation of groundwater response times.
+- The filtration of signals is impacted by the hydrologic controls of microtopography.
+- Microtopography is a pre-requisite for accurately quantifying non-zero exchange fluxes.
 </div>
 </div>
 
