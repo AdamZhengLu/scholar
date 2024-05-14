@@ -32,6 +32,18 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 # 📚 Publications 
 ## 📜 SCI articles
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADWR 2024</div><img src='images/2024_ADWR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effects of Microtopography on Patterns and Dynamics of Groundwater–Surface Water Interactions](https://www.sciencedirect.com/science/article/abs/pii/S0309170824000915)
+
+**Zheng Lu**, Xiaofan Yang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:Wp0gIr-vW9MC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Numerical experiments were conducted under different scenarios representing various degrees of microtopography. This study aimed to (1) investigate disparities in the characteristics of groundwater table, exchange flux, discharge, GRT and WTR among different scenarios and (2) explore distinctions in the fractal behaviours of the pressure head and the processes involved in signal transfer from varying precipitation, evapotranspiration and irrigation values to the groundwater flow across these scenarios.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2023</div><img src='images/2023_land.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
