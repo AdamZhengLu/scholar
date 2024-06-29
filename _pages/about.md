@@ -104,6 +104,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
+- ``RS 2024`` [A Hybrid Model Coupling Physical Constraints and Machine Learning to Estimate Daily Evapotranspiration in the Heihe River Basin](https://www.mdpi.com/2072-4292/16/12/2143), Xiang Li, Feihu Xue, Jianli Ding, Tongren Xu, Lisheng Song, Zijie Pang, Jinjie Wang, Ziwei Xu, Yanfei Ma, **Zheng Lu**, Dongxing Wu, Jiaxing Wei, Xinlei He, Yuan Zhang
 - ``JHM 2024`` [Geochemical properties, heavy metals and soil microbial community during revegetation process in a production Pb-Zn tailings](https://www.sciencedirect.com/science/article/abs/pii/S0304389423020939), Xiaocui Wen, Jiawei Zhou, Siyan Zheng, Zhangwei Yang, **Zheng Lu**, Xueqin Jiang, Lingzhi Zhao, Bo Yan, Xiaofan Yang, Tao Chen
 - ``EP 2023`` [A critical review on the migration and transformation processes of heavy metal contamination in lead-zinc tailings of China](https://www.sciencedirect.com/science/article/abs/pii/S026974912301669X), Tao Chen, Xiaocui Wen, Jiawei Zhou, **Zheng Lu**, Xueying Li, Bo Yan
 - ``JWEIA 2023`` [CFD Simulations for Airflow around Ground-mounted Photovoltaic Panel Arrays](https://www.sciencedirect.com/science/article/abs/pii/S0167610523002611), Jingbo Sun, Yuan He, Xueying Li, **Zheng Lu**, Xiaofan Yang
