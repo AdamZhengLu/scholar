@@ -160,11 +160,11 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 - *2012.05* Outstanding Student Prize, Control Survey Skills Competition
 
 # 📖 Educations
-- *2018.10 - 2024.01 (now)*, Ph.D., School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
+- *2018.10 - 2024.06*, Ph.D., School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
 - *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
 - *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
 
 # 🏫 Working and Teaching Activities
 - *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
 - *2016.07 - 2018.07*, Research Secretary, State Key Laboratory of Remote Sensing Science, Beijing, China
-- 20+ peer-reviewed publications in international journals or books
+- 30+ peer-reviewed publications in international journals or books
