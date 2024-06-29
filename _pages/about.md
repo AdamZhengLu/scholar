@@ -16,10 +16,12 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 (<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAdamZhengLu%2Fzhenglu@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔖 News
-- *2024.05*: &nbsp;🔥  His google scholar citations had exceeded 500.
-- *2023.12*: &nbsp;🔥  His google scholar citations had exceeded 400.
-- *2023.05*: &nbsp;🌊  The 1st article about ParFlow-CLM application in China was published.
-- *2023.03*: &nbsp;🎉  Series of benchmarking cases assessing integrated hydrologic model was release.
+- *2024.06*: &nbsp;🔥  His google scholar citations had exceeded 500.
+- *2024.05*: &nbsp;✋  The 3rd article about ParFlow-CLM application in the HRB was published (JH).
+- *2023.04*: &nbsp;👌  The 2nd article about ParFlow-CLM application in the mHRB was published (AWR).
+- *2023.12*: &nbsp;🎉  His google scholar citations had exceeded 400.
+- *2023.05*: &nbsp;✌  The 1st article about ParFlow-CLM application in the HRB was published (IEEE JSTARS).
+- *2023.03*: &nbsp;👍  Series of benchmarking cases assessing integrated hydrologic model was release (Land).
 
 # 💻 Skills
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB" /></a>
@@ -49,7 +51,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADWR 2024</div><img src='images/2024_ADWR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AWR 2024</div><img src='images/2024_ADWR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effects of Microtopography on Patterns and Dynamics of Groundwater–Surface Water Interactions](https://www.sciencedirect.com/science/article/abs/pii/S0309170824000915)
