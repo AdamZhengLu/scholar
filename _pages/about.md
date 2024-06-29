@@ -16,6 +16,7 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 (<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAdamZhengLu%2Fzhenglu@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔖 News
+- *2024.05*: &nbsp;🔥  His google scholar citations had exceeded 500.
 - *2023.12*: &nbsp;🔥  His google scholar citations had exceeded 400.
 - *2023.05*: &nbsp;🌊  The 1st article about ParFlow-CLM application in China was published.
 - *2023.03*: &nbsp;🎉  Series of benchmarking cases assessing integrated hydrologic model was release.
@@ -31,6 +32,22 @@ He has published 30+ papers with total <a href='https://scholar.google.com/citat
 
 # 📚 Publications 
 ## 📜 SCI articles
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2024</div><img src='images/2024_JH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effects of hydraulic conductivity on simulating groundwater–land surface interactions over a typical endorheic river basin](https://www.sciencedirect.com/science/article/pii/S0022169424009387)
+
+**Zheng Lu**, Jiaxing Wei, Xiaofan Yang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- An integrated hydrologic model was built over a large endorheic river basin.
+- Groundwater dynamics and land surface processes were simulated.
+- Various settings of subsurface hydraulic conductivity (K) were configured.
+- The water table critical range (0.1–5 m) area rises by 4.5 % with K heterogeneity.
+- K heterogeneity increases water table variability and decreases land energy fluxes variability.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADWR 2024</div><img src='images/2024_ADWR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
