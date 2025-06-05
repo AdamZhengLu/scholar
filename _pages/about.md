@@ -12,7 +12,7 @@ redirect_from:
 
 His current research focus is on the applications of integrated process-based hydrologic models and remote sensing approaches to describe groundwater-surface water interactions and the associated processes, especially changes in land surface processes, and assessing their possible impacts on the eco-hydrology over the Heihe River Basin of China as well as other arid and semi-arid regions.
 
-He has published 40+ papers with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. 
+He has published 40+ papers with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. 
 (<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Y59A2dsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAdamZhengLu%2Fzhenglu@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔖 News
@@ -36,14 +36,29 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 # 📚 Publications 
 ## 📜 SCI articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2024</div><img src='images/2024_JH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Assessing a high-resolution integrated hydrologic model(ParFlow-CLM-HRB) in an endorheic basin of China](https://linkinghub.elsevier.com/retrieve/pii/S0022169425009175)
+
+**Zheng Lu**, Tingting Wu, Jiaxin Lei, Xiaofan Yang
+
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=10518873807103777403&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A basin-scale, high-resolution, integrated hydrologic model was built in the HRB.
+- The model was validated with various in-situ observations and multi-source products.
+- Insights from model and parameterization advance water/energy component simulations.
+- Results provide a valuable benchmark and testbed for future applications.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effects of hydraulic conductivity on simulating groundwater–land surface interactions over a typical endorheic river basin](https://www.sciencedirect.com/science/article/pii/S0022169424009387)
 
 **Zheng Lu**, Jiaxing Wei, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=82368944937650582&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An integrated hydrologic model was built over a large endorheic river basin.
 - Groundwater dynamics and land surface processes were simulated.
 - Various settings of subsurface hydraulic conductivity (K) were configured.
@@ -59,7 +74,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:Wp0gIr-vW9MC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=4605896060990898680&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An integrated groundwater–surface water model is developed in an agricultural region.
 - Microtopography plays a pivotal role in the determination of groundwater patterns.
 - Ignoring microtopography causes overestimation of groundwater response times.
@@ -75,7 +90,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:4TOpqqG69KYC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=16420810090182402599&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work includes a series of benchmarking cases to assess integrated hydrologic models.
 </div>
 </div>
@@ -87,7 +102,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&sortby=pubdate&citation_for_view=Y59A2dsAAAAJ:M3ejUd6NZC8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=8871233069263601130&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work systematically validates ten soil moisture (SM) products, including four single-source RS SM, three merged SM, and three assimilated SM products.
 </div>
 </div>
@@ -99,7 +114,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Linna Chai, Shaomin Liu, Huizhen Cui, Yanghua Zhang, Lingmei Jiang, Rui Jin, Ziwei Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y59A2dsAAAAJ&citation_for_view=Y59A2dsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=8217858251672068449&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 </span></strong>
 - This work built a nonlinear auto-regressive neural network with exogenous input (NARXnn) to retrieve time series soil moisture (SM) that is spatially and temporally continuous and high quality over the Heihe River Basin.
 </div>
