@@ -193,6 +193,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 - *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
 
 # 🏫 Working and Teaching Activities
-- *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
+- *2025.05 - now*, Associate professor, Faculty of Electric Power Engineering, Kunming University of Science and Technology, Kunming, China
+- *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China
 - *2016.07 - 2018.07*, Research Secretary, State Key Laboratory of Remote Sensing Science, Beijing, China
-- 30+ peer-reviewed publications in international journals or books
+- 80+ peer-reviewed publications in international journals or books: *Global and Planetary Change, Journal of Hydrology, Journal of Hydrology: Regional Studies, Advances in Water Resources, Groundwater for Sustainable Development, Water Cycle, Hydrology, Water, Remote Sensing of Environment,International Journal of Applied Earth Observation and Geoinformation, Remote Sensing, Remote Sensing Applications: Society and Environment, Advances in Space Research, Geoderma, CATENA, Environmental and Sustainability Indicators, Agricultural Water Management, Atmosphere, Journal of Hazardous Materials, Environmental Pollution, Stochastic Environmental Research and Risk Assessment, Science of the Total Environment, Land, Sustainability, Journal of Open Source Software*
