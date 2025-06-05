@@ -63,7 +63,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>JH 2024</div><img src='images/2024_JH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2024</div><img src='images/2024_JH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effects of hydraulic conductivity on simulating groundwater–land surface interactions over a typical endorheic river basin](https://www.sciencedirect.com/science/article/pii/S0022169424009387)
