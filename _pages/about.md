@@ -36,10 +36,10 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 # 📚 Publications 
 ## 📜 SCI articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Assessing a high-resolution integrated hydrologic model(ParFlow-CLM-HRB) in an endorheic basin of China](https://linkinghub.elsevier.com/retrieve/pii/S0022169425009175)
+[Assessing a High-resolution Integrated Hydrologic Model(ParFlow-CLM-HRB) in an Endorheic Basin of China](https://www.sciencedirect.com/science/article/pii/S0022169425009175)
 
 **Zheng Lu**, Tingting Wu, Jiaxin Lei, Xiaofan Yang
 
@@ -51,7 +51,19 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_land.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploration of Spatiotemporal Covariation in Vegetation–Groundwater Relationships: A Case Study in an Endorheic Inland River Basin](https://www.mdpi.com/2073-445X/14/4/715)
+
+**Zheng Lu**, Dongxing Wu, Shasha Meng, Xiaokang Kou, Lipeng Jiao
+
+[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=15761738164509451797&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this study, covariation between the normalized difference vegetation index (NDVI) and water table depth (WTD) in the Heihe River Basin (HRB), a representative endorheic system, is inves-tigated via multisource data and generalized additive models (GAMs). 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_land.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effects of hydraulic conductivity on simulating groundwater–land surface interactions over a typical endorheic river basin](https://www.sciencedirect.com/science/article/pii/S0022169424009387)
