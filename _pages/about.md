@@ -43,7 +43,6 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Tingting Wu, Jiaxin Lei, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=10518873807103777403&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A basin-scale, high-resolution, integrated hydrologic model was built in the HRB.
 - The model was validated with various in-situ observations and multi-source products.
 - Insights from model and parameterization advance water/energy component simulations.
@@ -69,7 +68,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Jiaxing Wei, Xiaofan Yang
 
-[**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - An integrated hydrologic model was built over a large endorheic river basin.
 - Groundwater dynamics and land surface processes were simulated.
 - Various settings of subsurface hydraulic conductivity (K) were configured.
@@ -85,7 +84,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Xiaofan Yang
 
-[**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - An integrated groundwater–surface water model is developed in an agricultural region.
 - Microtopography plays a pivotal role in the determination of groundwater patterns.
 - Ignoring microtopography causes overestimation of groundwater response times.
@@ -101,7 +100,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng
 
-[**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work includes a series of benchmarking cases to assess integrated hydrologic models.
 </div>
 </div>
@@ -113,7 +112,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
-[**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work systematically validates ten soil moisture (SM) products, including four single-source RS SM, three merged SM, and three assimilated SM products.
 </div>
 </div>
@@ -125,8 +124,8 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Linna Chai, Shaomin Liu, Huizhen Cui, Yanghua Zhang, Lingmei Jiang, Rui Jin, Ziwei Xu
 
-[**Project**](https://kd.nsfc.cn/finalDetails?id=d5090a3a24d918c98da6b4bc452b8b27) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-</span></strong>
+<!-- [**Project**](https://kd.nsfc.cn/finalDetails?id=d5090a3a24d918c98da6b4bc452b8b27) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 - This work built a nonlinear auto-regressive neural network with exogenous input (NARXnn) to retrieve time series soil moisture (SM) that is spatially and temporally continuous and high quality over the Heihe River Basin.
 </div>
 </div>
