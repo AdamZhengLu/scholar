@@ -33,6 +33,17 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
 
+# 📖 Educations
+- *2018.10 - 2024.06*, Ph.D., School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
+- *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
+- *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
+
+# 🏫 Working and Teaching Activities
+- *2025.05 - Present*, Associate Professor, Faculty of Electric Power Engineering, Kunming University of Science and Technology, Kunming, China
+- *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China
+- *2016.07 - 2018.07*, Hydrologist, State Key Laboratory of Remote Sensing Science, Beijing, China
+- 80+ peer-reviewed publications in international journals or books: *Global and Planetary Change, Journal of Hydrology, Journal of Hydrology: Regional Studies, Advances in Water Resources, Groundwater for Sustainable Development, Water Cycle, Hydrology, Water, Remote Sensing of Environment, International Journal of Applied Earth Observation and Geoinformation, Remote Sensing, Remote Sensing Applications: Society and Environment, Advances in Space Research, Geoderma, CATENA, Environmental and Sustainability Indicators, Agricultural Water Management, Atmosphere, Journal of Hazardous Materials, Environmental Pollution, Stochastic Environmental Research and Risk Assessment, Science of the Total Environment, Land, Sustainability, Journal of Open Source Software*
+
 # 📚 Publications 
 ## 📜 SCI articles
 
@@ -184,14 +195,3 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 - *2018.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 - *2016.07* Excellent Contribution to the Tsjnghua-MIT Joint Workshop
 - *2012.05* Outstanding Student Prize, Control Survey Skills Competition
-
-# 📖 Educations
-- *2018.10 - 2024.06*, Ph.D., School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing, China 
-- *2013.09 - 2016.06*, M.S., Cartography and Geography Information System, School of Geography, Beijing Normal University, Beijing, China 
-- *2009.09 - 2016.06*, B.S., Geomatics, School of Geomatics, Shandong University of Science and Technology, Qingdao, China
-
-# 🏫 Working and Teaching Activities
-- *2025.05 - now*, Associate Professor, Faculty of Electric Power Engineering, Kunming University of Science and Technology, Kunming, China
-- *2020.01 - 2020.07*, Teaching Assistant, Faculty of Geographical Science, Beijing Normal University, Beijing, China
-- *2016.07 - 2018.07*, Research Secretary, State Key Laboratory of Remote Sensing Science, Beijing, China
-- 80+ peer-reviewed publications in international journals or books: *Global and Planetary Change, Journal of Hydrology, Journal of Hydrology: Regional Studies, Advances in Water Resources, Groundwater for Sustainable Development, Water Cycle, Hydrology, Water, Remote Sensing of Environment, International Journal of Applied Earth Observation and Geoinformation, Remote Sensing, Remote Sensing Applications: Society and Environment, Advances in Space Research, Geoderma, CATENA, Environmental and Sustainability Indicators, Agricultural Water Management, Atmosphere, Journal of Hazardous Materials, Environmental Pollution, Stochastic Environmental Research and Risk Assessment, Science of the Total Environment, Land, Sustainability, Journal of Open Source Software*
