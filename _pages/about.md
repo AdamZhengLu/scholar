@@ -58,7 +58,6 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Dongxing Wu, Shasha Meng, Xiaokang Kou, Lipeng Jiao
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=15761738164509451797&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this study, covariation between the normalized difference vegetation index (NDVI) and water table depth (WTD) in the Heihe River Basin (HRB), a representative endorheic system, is inves-tigated via multisource data and generalized additive models (GAMs). 
 </div>
 </div>
@@ -70,7 +69,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Jiaxing Wei, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=82368944937650582&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An integrated hydrologic model was built over a large endorheic river basin.
 - Groundwater dynamics and land surface processes were simulated.
 - Various settings of subsurface hydraulic conductivity (K) were configured.
@@ -86,7 +85,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=4605896060990898680&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An integrated groundwater–surface water model is developed in an agricultural region.
 - Microtopography plays a pivotal role in the determination of groundwater patterns.
 - Ignoring microtopography causes overestimation of groundwater response times.
@@ -102,7 +101,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=16420810090182402599&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work includes a series of benchmarking cases to assess integrated hydrologic models.
 </div>
 </div>
@@ -114,7 +113,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=8871233069263601130&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work systematically validates ten soil moisture (SM) products, including four single-source RS SM, three merged SM, and three assimilated SM products.
 </div>
 </div>
@@ -126,7 +125,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Lu**, Linna Chai, Shaomin Liu, Huizhen Cui, Yanghua Zhang, Lingmei Jiang, Rui Jin, Ziwei Xu
 
-[**Project**](https://scholar.google.com/scholar?oi=bibs&cluster=8217858251672068449&btnI=1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Project**](https://kd.nsfc.cn/finalDetails?id=d5090a3a24d918c98da6b4bc452b8b27) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 </span></strong>
 - This work built a nonlinear auto-regressive neural network with exogenous input (NARXnn) to retrieve time series soil moisture (SM) that is spatially and temporally continuous and high quality over the Heihe River Basin.
 </div>
