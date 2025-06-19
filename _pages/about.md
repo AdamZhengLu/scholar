@@ -61,7 +61,25 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_land.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_JH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effects of irrigation and canal networks on groundwater–land surface interactions in the middle Heihe River Basin, China](https://www.sciencedirect.com/science/article/pii/S221458182500357X)
+
+**Zheng Lu**, Shuyan Peng, Tingting Wu, Jiaxin Lei, Jiaxing Wei, Xiaofan Yang
+
+- A high resolution integrated hydrologic model was constructed.
+- Simulated hydrological variables agree well with the in-situ observations.
+- Irrigation altered the strong correlation between water table and latent heat flux.
+- Irrigation substantially reduced soil temperature at water table depth of 0.01–10 m.
+- Canals shifted the surface heat flux patterns.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploration of Spatiotemporal Covariation in Vegetation–Groundwater Relationships: A Case Study in an Endorheic Inland River Basin](https://www.mdpi.com/2073-445X/14/4/715)
