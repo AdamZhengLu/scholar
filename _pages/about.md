@@ -83,7 +83,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 
 <!--  Article 6 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_Land.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploration of Spatiotemporal Covariation in Vegetation–Groundwater Relationships: A Case Study in an Endorheic Inland River Basin](https://www.mdpi.com/2073-445X/14/4/715)
