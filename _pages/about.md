@@ -51,11 +51,8 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Assessing a High-resolution Integrated Hydrologic Model(ParFlow-CLM-HRB) in an Endorheic Basin of China](https://www.sciencedirect.com/science/article/pii/S0022169425009175)
-
 **Zheng Lu**, Tingting Wu, Jiaxin Lei, Xiaofan Yang
-
 - A basin-scale, high-resolution, integrated hydrologic model was built in the HRB.
 - The model was validated with various in-situ observations and multi-source products.
 - Insights from model and parameterization advance water/energy component simulations.
@@ -65,11 +62,8 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Effects of irrigation and canal networks on groundwater–land surface interactions in the middle Heihe River Basin, China](https://www.sciencedirect.com/science/article/pii/S221458182500357X)
-
 **Zheng Lu**, Shuyan Peng, Tingting Wu, Jiaxin Lei, Jiaxing Wei, Xiaofan Yang
-
 - A high resolution integrated hydrologic model was constructed.
 - Simulated hydrological variables agree well with the in-situ observations.
 - Irrigation altered the strong correlation between water table and latent heat flux.
@@ -80,22 +74,16 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Exploration of Spatiotemporal Covariation in Vegetation–Groundwater Relationships: A Case Study in an Endorheic Inland River Basin](https://www.mdpi.com/2073-445X/14/4/715)
-
 **Zheng Lu**, Dongxing Wu, Shasha Meng, Xiaokang Kou, Lipeng Jiao
-
 - In this study, covariation between the normalized difference vegetation index (NDVI) and water table depth (WTD) in the Heihe River Basin (HRB), a representative endorheic system, is inves-tigated via multisource data and generalized additive models (GAMs). 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2024</div><img src='images/2024_JH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Effects of hydraulic conductivity on simulating groundwater–land surface interactions over a typical endorheic river basin](https://www.sciencedirect.com/science/article/pii/S0022169424009387)
-
 **Zheng Lu**, Jiaxing Wei, Xiaofan Yang
-
 <!-- [**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - An integrated hydrologic model was built over a large endorheic river basin.
 - Groundwater dynamics and land surface processes were simulated.
@@ -107,11 +95,8 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AWR 2024</div><img src='images/2024_ADWR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Effects of Microtopography on Patterns and Dynamics of Groundwater–Surface Water Interactions](https://www.sciencedirect.com/science/article/abs/pii/S0309170824000915)
-
 **Zheng Lu**, Xiaofan Yang
-
 <!-- [**Project**](https://kd.nsfc.cn/finalDetails?id=b5e0265144d91f54e4d11263711da159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - An integrated groundwater–surface water model is developed in an agricultural region.
 - Microtopography plays a pivotal role in the determination of groundwater patterns.
@@ -123,11 +108,8 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2023</div><img src='images/2023_land.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Assessing Integrated Hydrologic Model: From Benchmarking to Case Study in a Typical Arid and Semi-arid Basin](https://www.mdpi.com/2073-445X/12/3/697)
-
 **Zheng Lu**, Yuan He, Shuyan Peng
-
 <!-- [**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work includes a series of benchmarking cases to assess integrated hydrologic models.
 </div>
@@ -135,11 +117,8 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTARS 2023</div><img src='images/2023_JSTARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Comprehensive Evaluation of Multi-Source Soil Moisture Products in a Managed Agricultural Region: An Integrated Hydrologic Modelling Approach](https://ieeexplore.ieee.org/document/10163798)
-
 **Zheng Lu**, Yuan He, Shuyan Peng, Xiaofan Yang
-
 <!-- [**Project**](http://sti.xizang.gov.cn/kjfw/qzkk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work systematically validates ten soil moisture (SM) products, including four single-source RS SM, three merged SM, and three assimilated SM products.
 </div>
@@ -147,13 +126,9 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2017</div><img src='images/2017_RS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Estimating Time Series Soil Moisture by Applying Recurrent Nonlinear Autoregressive Neural Networks to Passive Microwave Data over the Heihe River Basin, China](https://www.mdpi.com/2072-4292/9/6/574)
-
 **Zheng Lu**, Linna Chai, Shaomin Liu, Huizhen Cui, Yanghua Zhang, Lingmei Jiang, Rui Jin, Ziwei Xu
-
 <!-- [**Project**](https://kd.nsfc.cn/finalDetails?id=d5090a3a24d918c98da6b4bc452b8b27) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 - This work built a nonlinear auto-regressive neural network with exogenous input (NARXnn) to retrieve time series soil moisture (SM) that is spatially and temporally continuous and high quality over the Heihe River Basin.
 </div>
 </div>
