@@ -62,9 +62,6 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_JH.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
