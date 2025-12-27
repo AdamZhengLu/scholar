@@ -56,7 +56,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 
 [Assessing Impacts of Anthropogenic Modification on Surface Soil Moisture Dynamics: A Case Study over Southwest China](https://www.mdpi.com/2306-5338/12/11/275)
 
-**Zheng Lu**, Changrui Qin, Zheng Lu 1, Dehui Ning, Zhenxiang Zang, Honglei Tang, Feng Pan, Guaimei Cheng, Jimin Hu, Shasha Meng
+Chunying Shen, Changrui Qin, **Zheng Lu (corresponding author)**, Dehui Ning, Zhenxiang Zang, Honglei Tang, Feng Pan, Guaimei Cheng, Jimin Hu, Shasha Meng
 
 - In this study, we employed multi-year geospatial and statistical analyses, including kernel density estimation and boxplots, to examine the impacts of human activities on regional soil moisture patterns.
 </div>
