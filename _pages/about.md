@@ -49,7 +49,47 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 # 📚 Publications 
 ## 📜 SCI articles
 
+
+<!--  Article 10 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Hydrology 2025</div><img src='images/2025_Hydrology.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Assessing Impacts of Anthropogenic Modification on Surface Soil Moisture Dynamics: A Case Study over Southwest China](https://www.mdpi.com/2306-5338/12/11/275)
+
+**Zheng Lu**, Changrui Qin, Zheng Lu 1, Dehui Ning, Zhenxiang Zang, Honglei Tang, Feng Pan, Guaimei Cheng, Jimin Hu, Shasha Meng
+
+- In this study, we employed multi-year geospatial and statistical analyses, including kernel density estimation and boxplots, to examine the impacts of human activities on regional soil moisture patterns.
+</div>
+</div>
+
+
+<!--  Article 9 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2025</div><img src='images/2025_RS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Quantifying Multifactorial Drivers of Groundwater–Climate Interactions in an Arid Basin Based on Remote Sensing Data](https://www.mdpi.com/2072-4292/17/14/2472)
+
+**Zheng Lu**, Chunying Shen, Cun Zhan, Honglei Tang, Chenhao Luo, Shasha Meng, Yongkai An, Heng Wang, Xiaokang Kou
+
+- In this study, we develops a novel remote sensing framework to quantify factor controls on groundwater–climate interaction characteristics in the Heihe River Basin (HRB). High-resolution (0.005° × 0.005°) maps of groundwater response time (GRT) and water table ratio (WTR) were generated using multi-source geospatial data. Employing Geographical Convergent Cross Mapping (GCCM), we established causal relationships between GRT/WTR and their drivers, identifying key influences on groundwater dynamics. Generalized Additive Models (GAM) further quantified the relative contributions of climatic (precipitation, temperature), topographic (DEM, TWI), geologic (hydraulic conductivity, porosity, vadose zone thickness), and vegetative (NDVI, root depth, soil water) factors to GRT/WTR variability.
+</div>
+</div>
+
+
 <!--  Article 8 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_land.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploration of Spatiotemporal Covariation in Vegetation–Groundwater Relationships: A Case Study in an Endorheic Inland River Basin](https://www.mdpi.com/2073-445X/14/4/715)
+
+**Zheng Lu**, Dongxing Wu, Shasha Meng, Xiaokang Kou, Lipeng Jiao
+
+- In this study, covariation between the normalized difference vegetation index (NDVI) and water table depth (WTD) in the Heihe River Basin (HRB), a representative endorheic system, is inves-tigated via multisource data and generalized additive models (GAMs). 
+</div>
+</div>
+
+
+<!--  Article 7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH 2025</div><img src='images/2025_JH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +105,7 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 </div>
 
 
-<!--  Article 7 -->
+<!--  Article 6 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRH 2025</div><img src='images/2025_JHRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,19 +118,6 @@ He has published 40+ papers with total <a href='https://scholar.google.com/citat
 - Irrigation altered the strong correlation between water table and latent heat flux.
 - Irrigation substantially reduced soil temperature at water table depth of 0.01–10 m.
 - Canals shifted the surface heat flux patterns.
-</div>
-</div>
-
-
-<!--  Article 6 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land 2025</div><img src='images/2025_land.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploration of Spatiotemporal Covariation in Vegetation–Groundwater Relationships: A Case Study in an Endorheic Inland River Basin](https://www.mdpi.com/2073-445X/14/4/715)
-
-**Zheng Lu**, Dongxing Wu, Shasha Meng, Xiaokang Kou, Lipeng Jiao
-
-- In this study, covariation between the normalized difference vegetation index (NDVI) and water table depth (WTD) in the Heihe River Basin (HRB), a representative endorheic system, is inves-tigated via multisource data and generalized additive models (GAMs). 
 </div>
 </div>
 
