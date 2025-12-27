@@ -245,8 +245,8 @@ Chunying Shen, Changrui Qin, **Zheng Lu (corresponding author)**, Dehui Ning, Zh
 - Evaluating the Impacts of Subsurface Heterogeneity on Integrated Groundwater-Surface Water Modeling: A Case Study in the Heihe River Basin. _AGU Fall Meeting 2019_, 9-13 December 2019, San Francisco, California, USA. Bibcode: 2019AGUFM.H44C..03L.
 
 # 🎖 Honors and Awards
-- *2025.09* Water Cycle Outstanding Reviewer Award 2025
-- *2025.05* Water Exceptional Reviewer 2025
+- *2025.09* _Water Cycle_ Outstanding Reviewer Award 2025
+- *2025.05* _Water_ Exceptional Reviewer 2025
 - *2025.01* Outstanding Doctoral Dissertation Award, Beijing Normal University
 - *2024.01* Academic Innovation Award of Beijing Normal University
 - *2021.12* Honorable Graduate Student Fellowship of No.2 Middle School Attached to SDNU
